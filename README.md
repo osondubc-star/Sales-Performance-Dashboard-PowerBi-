@@ -9,6 +9,10 @@ The dataset used contains approximately 5,200 sales transaction records across t
 The dashboard focuses on analyzing revenue performance, profitability drivers, customer behaviour, and product trends across key business segments.
 ---
 
+
+## Dashboard Preview
+![Sales Performance Dashboard](sales_performance_dashboard.png)
+
 ##  Tools Used
 - Power BI Desktop
 - Power Query (Data Cleaning & Transformation)
@@ -38,6 +42,7 @@ The dashboard was designed to answer the following business questions:
 ## Key Insights
 
 ### Profit by Brand
+
 Apple emerged as the most profitable brand, generating the highest contribution to total profit. This indicates strong customer demand and consistent market preference for Apple products compared to competing brands such as Lenovo, Samsung, HP, Asus, and Dell.
 This insight suggests an opportunity to prioritize Apple inventory availability and promotional strategies to further improve profitability.
 ---
@@ -48,15 +53,18 @@ Aligning inventory decisions with this demand pattern can help improve future sa
 ---
 
 ### Revenue Performance
+
 The dashboard shows total revenue of $3.11M generated within the reporting period (2023). This represents overall business sales performance across all regions, customer segments, and product categories included in the dataset.
 ---
 
 ### Monthly Customer Distribution
+
 Customer transaction activity declined slightly from 1,741 transactions in January to 1,719 in February before recovering to 1,740 in March.
 This pattern suggests a temporary dip in customer activity rather than a sustained decline, indicating generally stable engagement across the reporting quarter.
 ---
 
 ### Profit by Income Level
+
 Medium-income customers contributed the highest share of total profit at approximately $346K, making them the most valuable customer segment within the dataset.
 This insight highlights an opportunity for targeted marketing strategies focused on medium-income customers to improve long-term profitability.
 ---
@@ -77,10 +85,6 @@ Through this project, I strengthened my practical skills in:
 ##  Acknowledgement
 
 Special thanks to my tutor, Mr. Ezekiel Aleke, for the guidance, patience, and structured teaching approach throughout this project.
----
-
-## Dashboard Preview
-
 ---
 
 ## Contact
