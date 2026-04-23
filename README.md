@@ -11,7 +11,7 @@ The dashboard focuses on analyzing revenue performance, profitability drivers, c
 
 
 ## Dashboard Preview
-![Sales Performance Dashboard](Sales_Performance_Dashboard.png)
+![Sales Performance Dashboard](Sales performance_Dashboard.png)
 
 ##  Tools Used
 - Power BI Desktop
